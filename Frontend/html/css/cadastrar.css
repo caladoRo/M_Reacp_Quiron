@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI light', sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+
+nav{
+    display: flex;
+    height: 57px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav a {
+    margin-left: 15px;
+}
+
+h1{
+    margin-left: 600px;
+}
+
+nav img{
+    height: 32px;
+    width: 158px;
+    margin-right: 500px
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+}
+
+.input_maior{
+    width: 1058px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+
+.juntos input{
+    width: 519px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+
+input{
+    margin-right: 15px;
+}
+
+button{
+    height: 40px;
+    width: 1058px;
+    background-color: rgba(0, 72, 92, 0.658);
+    border-radius: 5px;
+    margin-top: 40px;
+    color: white;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 150px;
+}

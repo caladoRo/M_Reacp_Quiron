@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI light', sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    margin-left: 600px;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+}
+
+.conteudo{
+    margin: 100px;
+}
+
+#lala{
+    background-color: white;
+    width: 940px;
+    height: 2px;  
+    margin-top: 20PX;          
+}
+
+.conteudo p {
+    margin-top: 10px;
+}
+

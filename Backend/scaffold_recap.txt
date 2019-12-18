@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=.\SqlExpress;Initial Catalog=m_recap;User Id=sa;Pwd=132" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Domains -ContextDir Contexts -Context RecapContext
